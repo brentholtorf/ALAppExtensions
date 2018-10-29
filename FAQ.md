@@ -25,7 +25,7 @@ DotNet interop is not available due to safety issues in running arbitrary .NET c
 * [AL support for REST Web Services](http://www.kauffmann.nl/2017/06/24/al-support-for-rest-web-services/)  
 * [Invoking Azure Functions from AL](http://vjeko.com/invoking-azure-functions-al/)  
 
-3. We offer an open source GitHub repository where you can submit .NET type wrappers that, if accepted, will be included in the base application. Here's a link to the repo [](https://github.com/Microsoft/cal-open-library).
+3. We offer an open source GitHub repository where you can submit .NET type wrappers that, if accepted, will be included in the base application. Here's a link to the repo [C/AL Open Library](https://github.com/Microsoft/cal-open-library).
 
 On-Premise:  
 
@@ -43,7 +43,7 @@ We have decided to focus our development efforts on a single, latest version of 
 We use labels for categorizing issues into types and tracking the issue lifecycle. Issues fall into the following types:  
 
 * Enum-request - request an enum  
-* Request-for-exteranl - request to mark a function as external  
+* Request-for-external - request to mark a function as external  
 * Event-request - request for a new event  
 * Extensibility-enhancement - larger suggestion improving extensibility, something we might want to consider in the future  
 
